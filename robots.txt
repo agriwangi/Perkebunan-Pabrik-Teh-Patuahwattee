@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agriwangi.github.io/Perkebunan-Pabrik-Teh-Patuahwattee/sitemap.xml
